@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+boto3
+python-dotenv
+reportlab
+strands-agents>=1.0.0
+strands-agents-tools>=0.2.0
+python-multipart
